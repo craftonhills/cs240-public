@@ -53,12 +53,6 @@ Here are a few guideline steps for a process of submitting your solutions:
 
 In the terminal, nagivate to the directory containing your completed program and test results. 
 
-You will clone your class personal repository onto your local machine:
-
-    $ git clone https://github.com/craftonhills/cs240-flast.git
-    Cloning into 'cs240-flast'...
-
-It will ask for your GitHub username and password. The name of your cs240 personal repository is *cs240-flast*, where 'f' is your first initial and 'last' is your last name.
 
 Look at your current repository status.
 
