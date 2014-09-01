@@ -10,5 +10,5 @@
 - March 31, 9999 -> Wednesday
 - October 19, 2000 -> Thursday
 - November 28, 3000 -> Friday
-- December 31, 4001 -> Saturday
+- December 21, 4001 -> Saturday
 - May 20, 1753 -> Sunday
