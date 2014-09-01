@@ -1,2 +1,7 @@
-February 17, 1800 -> Monday
-January 15, 2014 -> Tuesday
+- February 17, 1800 -> Monday
+- January 15, 2014 -> Tuesday
+- March 31, 9999 -> Wednesday
+- October 19, 2000 -> Thursday
+- November 28, 3000 -> Friday
+- December 23, 4000 -> Saturday
+- May 20, 0000 -> Sunday
